@@ -210,7 +210,6 @@ export default function DownloaderCard() {
                                                 muted
                                                 loop
                                                 playsInline
-                                                referrerPolicy="no-referrer"
                                                 className="absolute inset-0 w-full h-full object-cover z-0"
                                             />
                                         </motion.div>
